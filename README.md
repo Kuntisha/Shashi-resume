@@ -1,2 +1,2 @@
-# Shashi-resume
+#resume
 My resume for complete Web Development Course
